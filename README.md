@@ -11,6 +11,12 @@ Outputs:
 - whether it is a variable or non-variable candidate
 - (optional) The index-index chart of the object
 
+Attribution:
+Please cite Oliveros-Gomez, N. et al. (2022) whenever results are used in a publication.
+
 Future versions:
 Decide to use the method for a single object or a list of objects.
+
+Questions & feedback:
+species has been developed and is maintained by Natalia Oliveros-Gomez (nl.oliverosgomez@ugto.mx). Feel free to send an email for questions, comments, or suggestions.
 
