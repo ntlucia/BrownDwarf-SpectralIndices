@@ -3,8 +3,11 @@ Method to determine if ONE brown dwarf is a candidate to be a photometric variab
 
 This first version works in Python and the only modifications to be made at the beginning of the code are:
   - Path and name of the file containing the brown dwarf spectrum.
+      - The spectrum format must contain 3 columns with the names:
+      'lambda', 'flux', 'eflux' and they must be separated with tab '\t'.
   - Define whether it is an L-type or T-type brown dwarf.
   - Whether or not to save a .pdf file with the index-index plot
+Run code with: python LTdwarfIndices.py
 
 Outputs:
 - In how many graphs this object appears in the variable area
