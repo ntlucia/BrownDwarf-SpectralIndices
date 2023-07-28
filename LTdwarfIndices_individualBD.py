@@ -1,16 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[64]:
-
-
 #// ============================================================================================= //
 #//                                                                                               //
-#//       Filename:  LTdwarfIndices.py                                                            //
+#//       Filename:  LTdwarfIndices_individualBD.py                                               //
 #//    Description:  Candidate Variable L and T brown dwarfs determination                        //
 #//                  using the Spectral Index method                                              //
 #//                                                                                               //
-#//        Version:  1                                                                            //
+#//        Version:  2.1                                                                            //
 #//        Created:  13/06/2023                                                                   //
 #//       Compiler:  Python                                                                       //
 #//                                                                                               //
